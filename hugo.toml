@@ -1,4 +1,4 @@
-baseURL = 'https://wrenswatch.com/'
+baseURL = 'https://wwsite-d41.pages.dev/'
 languageCode = 'en-us'
 title = "Wren's Watch"
 theme = 'PaperMod'

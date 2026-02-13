@@ -4,10 +4,8 @@ date: 2026-02-13
 description: "How online content businesses will navigate the next half-decade of disruption. Analysis of industry transformation as discovery shifts from pull-based to algorithm-driven push-based models."
 tags: ["nonfiction", "business", "digital media"]
 cover:
-  image: "https://res.cloudinary.com/wellfleet/image/upload/c_fill,f_auto,q_auto,w_638/rhr5jb97l4mgpnzbh2hpijs8pv2m"
+  image: "/images/about-5-years.jpg"
 ---
-
-![About 5 Years Cover](https://res.cloudinary.com/wellfleet/image/upload/c_fill,f_auto,q_auto,w_638/rhr5jb97l4mgpnzbh2hpijs8pv2m)
 
 ## How online content businesses will navigate the next half-decade of disruption
 

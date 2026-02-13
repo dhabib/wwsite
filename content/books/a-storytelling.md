@@ -4,10 +4,8 @@ date: 2026-02-13
 description: "A young adult narrative about Cassie, age 14, attending a weekend artistic retreat at an abandoned psychiatric facility called the Stacks. Stories have power, reality bends like watercolor, and something sinister lurks beneath the surface."
 tags: ["fiction", "young adult"]
 cover:
-  image: "https://res.cloudinary.com/wellfleet/image/upload/c_fill,f_auto,q_auto,w_638/ov1sj9rum45anvy0v28cm7am2ga6"
+  image: "/images/a-storytelling.jpg"
 ---
-
-![A Storytelling Cover](https://res.cloudinary.com/wellfleet/image/upload/c_fill,f_auto,q_auto,w_638/ov1sj9rum45anvy0v28cm7am2ga6)
 
 A young adult narrative centered on Cassie, age 14, attending a weekend artistic retreat at an abandoned psychiatric facility called the Stacks. Stories have power, reality bends like watercolor, and something sinister lurks beneath the surface of this transformative experience.
 

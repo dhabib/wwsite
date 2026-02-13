@@ -189,11 +189,19 @@ img[src*="about-5-years"] {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 1rem;
+    color: #161209 !important;
 }
 
 .post-content {
     font-size: 1.05rem;
     line-height: 1.8;
+    color: #161209 !important;
+}
+
+.post-content p,
+.post-content li,
+.post-content strong {
+    color: #161209 !important;
 }
 
 /* Clean section headers */

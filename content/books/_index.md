@@ -7,6 +7,6 @@ Explore our collection of books, from young adult fiction to nonfiction examinat
 
 ## Published Works
 
-- **[A Storytelling](/books/a-storytelling/)** - Young Adult Fiction
 - **[Latent Vector](/books/latent-vector/)** - Nonfiction / Business / Technology
 - **[About 5 Years](/books/about-5-years/)** - Nonfiction / Business / Digital Media
+- **[A Storytelling](/books/a-storytelling/)** - Young Adult Fiction

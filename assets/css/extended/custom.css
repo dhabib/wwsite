@@ -114,20 +114,27 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Book cover images */
-.post-content img {
+/* Book cover images - force smaller size */
+.post-content img,
+.post-single img,
+.post-cover img,
+img[src*="storytelling"],
+img[src*="latent"],
+img[src*="about-5-years"] {
+    max-width: 240px !important;
+    width: 240px !important;
+    height: auto !important;
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    max-width: 320px;
-    height: auto;
+    display: block;
+    margin: 0 0 2rem 0;
 }
 
-/* Cover image on individual pages */
+/* Cover image wrapper */
 .post-cover,
-.post-single .post-cover img {
-    max-width: 320px !important;
-    height: auto !important;
-    margin: 0 auto 2rem auto;
+.post-single .post-cover {
+    max-width: 240px !important;
+    margin: 0 0 2rem 0 !important;
 }
 
 /* Links styling - KeepIt style */

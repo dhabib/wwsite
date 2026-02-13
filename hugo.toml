@@ -1,0 +1,99 @@
+baseURL = 'https://wrenswatch.com/'
+languageCode = 'en-us'
+title = "Wren's Watch"
+theme = 'PaperMod'
+
+# Enable features
+enableRobotsTXT = true
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  # Site description
+  description = "Books and software from Wren's Watch"
+  author = "Wren's Watch"
+
+  # Logo/label in navbar
+  [params.label]
+    text = "WW"
+
+  # Profile mode for landing page - logo and social links only
+  [params.profileMode]
+    enabled = true
+    title = ""
+    subtitle = ""
+    imageUrl = "images/logo.png"
+    imageWidth = 300
+    imageHeight = 300
+    imageTitle = ""
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:contact@wrenswatch.com"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+  # Appearance - KeepIt style (clean, minimal)
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  # Cover image config for book pages
+  [params.cover]
+    linkFullImages = true
+    responsiveImages = true
+
+[[menu.main]]
+  identifier = "books"
+  name = "Books"
+  url = "/books/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "software"
+  name = "Software"
+  url = "/software/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "appearances"
+  name = "Appearances"
+  url = "/appearances/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false

@@ -1,0 +1,27 @@
+# Hugo build output
+public/
+resources/
+
+# Hugo cache
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node modules (if using npm)
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+
+# Screenshot (not needed in repo)
+Screenshot_*.png

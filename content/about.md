@@ -5,15 +5,14 @@ description: "About Wren's Watch"
 
 ## About Wren's Watch
 
-Wren's Watch produces books and software exploring the intersection of storytelling, technology, and digital transformation.
+Wren's Watch is mine. I'm David Habib — career Internet tech executive, CIO at Brightspot, and someone who has been watching the Web evolve (and occasionally devolve) for a few decades now.
 
-Our work examines how artificial intelligence, emerging technologies, and evolving digital landscapes reshape business, creativity, and human experience. From young adult fiction to nonfiction analysis of technological disruption, we explore narratives that matter in our changing world.
+This is where I put the things I build and the things I write.
 
-### What We Do
+I'm deep into AI right now — not as a cheerleader and not as a skeptic, but as someone who's building with it and trying to understand what it actually changes. *Latent Vector* is my attempt to work through what happens when every piece of information becomes machine-readable and a $5 trillion filing cabinet gets unlocked. *About 5 Years* is a warning to the content industry that the ground is shifting faster than most people want to admit. I used AI tools to help write both of them, and I have opinions about what that means.
 
-- **Books:** Fiction and nonfiction examining technology, storytelling, and transformation
-- **Software:** Tools and applications exploring the digital landscape (in development)
+On the software side, I'm building things like **Cyrano**, an AI-powered social presence tool that asks "what do you think?" instead of "what do you want to say?", and **Pilot**, a content management system that treats knowledge, not content, as the atomic unit. I'm calling it the world's first wisdom engine, which is either exactly right or tremendously pretentious. I'll let you know.
 
-### Contact
+I also wrote a YA novel called *A Storytelling*, because not everything has to be about AI. But even that one is about how stories reshape reality, so maybe it is.
 
-For inquiries, reach out through the links on our book pages or connect via social platforms.
+I still capitalize Internet.

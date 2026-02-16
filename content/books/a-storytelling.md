@@ -5,6 +5,10 @@ description: "A young adult narrative about Cassie, age 14, attending a weekend 
 tags: ["fiction", "young adult"]
 cover:
   image: "/images/a-storytelling.jpg"
+_build:
+  list: never
+  publishResources: true
+  render: always
 ---
 
 A young adult narrative centered on Cassie, age 14, attending a weekend artistic retreat at an abandoned psychiatric facility called the Stacks. Stories have power, reality bends like watercolor, and something sinister lurks beneath the surface of this transformative experience.

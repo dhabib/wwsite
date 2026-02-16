@@ -5,6 +5,10 @@ description: "How online content businesses will navigate the next half-decade o
 tags: ["nonfiction", "business", "digital media"]
 cover:
   image: "/images/about-5-years.jpg"
+_build:
+  list: never
+  publishResources: true
+  render: always
 ---
 
 ## How online content businesses will navigate the next half-decade of disruption

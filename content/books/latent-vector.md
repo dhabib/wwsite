@@ -5,6 +5,10 @@ description: "AI and the unlocking of a $5 trillion filing cabinet. An examinati
 tags: ["nonfiction", "business", "technology", "AI"]
 cover:
   image: "/images/latent-vector.jpg"
+_build:
+  list: never
+  publishResources: true
+  render: always
 ---
 
 ## AI and the unlocking of a $5 trillion filing cabinet

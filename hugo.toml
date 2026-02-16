@@ -17,14 +17,16 @@ buildExpired = false
 
   # Logo/label in navbar
   [params.label]
-    text = "WW"
+    text = ""
+    icon = "images/icon.png"
+    iconHeight = 30
 
   # Profile mode for landing page - logo and social links only
   [params.profileMode]
     enabled = true
     title = ""
     subtitle = ""
-    imageUrl = "images/logo.png"
+    imageUrl = "images/wrenswatchlogo.png"
     imageWidth = 300
     imageHeight = 300
     imageTitle = ""
@@ -77,16 +79,10 @@ buildExpired = false
   weight = 2
 
 [[menu.main]]
-  identifier = "appearances"
-  name = "Appearances"
-  url = "/appearances/"
-  weight = 3
-
-[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 4
+  weight = 3
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

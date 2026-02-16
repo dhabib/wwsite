@@ -17,7 +17,7 @@ buildExpired = false
 
   # Logo/label in navbar
   [params.label]
-    text = ""
+    text = " "
     icon = "images/icon.png"
     iconHeight = 30
 

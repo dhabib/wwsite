@@ -5,14 +5,8 @@ description: "About Wren's Watch"
 
 ## About Wren's Watch
 
-Wren's Watch is mine. I'm David Habib — career Internet tech executive, CIO at Brightspot, and someone who has been watching the Web evolve (and occasionally devolve) for a few decades now.
+Wren's Watch builds AI-powered software and publishes books about what happens when artificial intelligence meets the real economy. We're not interested in hype cycles or hand-wringing. We're interested in what actually changes—in how businesses operate, how content gets made, and how people work.
 
-This is where I put the things I build and the things I write.
+Our software products apply AI where it creates genuine leverage: helping knowledge workers maintain an authentic professional voice, and reimagining how organizations manage and surface what they know. Our books provide the analytical framework—examining the economics of AI-driven disruption and the real forces reshaping digital media.
 
-I'm deep into AI right now — not as a cheerleader and not as a skeptic, but as someone who's building with it and trying to understand what it actually changes. *Latent Vector* is my attempt to work through what happens when every piece of information becomes machine-readable and a $5 trillion filing cabinet gets unlocked. *About 5 Years* is a warning to the content industry that the ground is shifting faster than most people want to admit. I used AI tools to help write both of them, and I have opinions about what that means.
-
-On the software side, I'm building things like **Cyrano**, an AI-powered social presence tool that asks "what do you think?" instead of "what do you want to say?", and **Pilot**, a content management system that treats knowledge, not content, as the atomic unit. I'm calling it the world's first wisdom engine, which is either exactly right or tremendously pretentious. I'll let you know.
-
-I also wrote a YA novel called *A Storytelling*, because not everything has to be about AI. But even that one is about how stories reshape reality, so maybe it is.
-
-I still capitalize Internet.
+Wren's Watch was founded by David Habib, a career technology executive and CIO at Brightspot, one of the leading content management platforms in enterprise publishing. With decades of experience across digital strategy, information security, and large-scale platform operations, David has watched every wave of internet transformation from the inside. Wren's Watch is where that experience turns into products and analysis—built on the conviction that the best way to understand AI isn't to theorize about it, but to build with it.

@@ -1,38 +1,32 @@
 ---
 title: "Software"
-description: "Tools and applications from Wren's Watch"
+description: "AI-powered tools from Wren's Watch"
 ---
 
 ## Cyrano
 
 ![Cyrano Logo](/images/cyranologo.png)
 
-[cyrano.wrenswatch.com](https://cyrano.wrenswatch.com)
+*Your thinking, your voice, seven platforms.*
 
-Cyrano is an AI-powered social presence engine that helps knowledge workers maintain an authentic social media presence without the time investment. Instead of asking "what do you want to say?", Cyrano asks "what do you think about this?" — surfacing curated trending topics, capturing the user's perspective, and generating platform-native content for distribution across all major social networks.
+You know you should be posting. You have things to say. You just don't have the time to say them on LinkedIn, Bluesky, Threads, X, Medium, Reddit, and Mastodon every week.
 
-**Key Features (MVP):**
+Cyrano doesn't ask what you want to post. It asks what you think—about the topics already trending in your field. You give it a sentence or two of your actual perspective, and it generates platform-native content that sounds like you, not like a chatbot.
 
-- Curated trending topics filtered by user interests
-- Opinion capture (transform 1-2 sentences into full posts)
-- AI content generation for 7 platforms (LinkedIn, X/Twitter, Medium, Threads, Reddit, Mastodon, Bluesky)
-- Voice calibration (posts sound like YOU, not generic AI)
-- Copy-and-open distribution (no API dependencies, ship faster)
+No API integrations to configure. No brand voice worksheets. Calibrate once, post everywhere.
+
+**[Try Cyrano →](https://cyrano.wrenswatch.com)**
 
 ---
 
-## Pilot
+#### IN DEVELOPMENT
+
+## Pilot — Wisdom Management System
 
 ![Pilot Logo](/images/pilotlogobw.png)
 
-*(Not publicly available yet — [view product brief](/Pilot%20—%20The%20Wisdom%20Engine.pdf))*
+Traditional content management systems store documents and serve pages. Pilot does something different: it ingests everything an organization knows—documents, media, institutional expertise—and makes that knowledge available on demand, shaped by editorial principles you define.
 
-Pilot is a fundamental reimagining of content management that treats **knowledge as the atomic unit** rather than content itself. Unlike traditional CMS platforms, Pilot ingests heterogeneous knowledge contributions, stores them as semantic embeddings in a continuous "wisdom manifold," and generates nondeterministic projections shaped by an editorial constitution.
+Not a CMS with AI bolted on. A fundamentally different architecture for how organizations capture, manage, and project what they know.
 
-### What is Pilot WMS?
-
-Pilot is a fundamental reimagining of content management that:
-- Ingests heterogeneous knowledge contributions (documents, text, media)
-- Stores them as semantic embeddings in a continuous "wisdom manifold" (vector database)
-- Shapes output through an editorial constitution (tunable editorial parameters)
-- Generates nondeterministic projections for any surface (web, API, conversational)
+**[Read the product brief →](/Pilot%20—%20The%20Wisdom%20Engine.pdf)**

@@ -1,12 +1,11 @@
 ---
 title: "Books"
-description: "Fiction and nonfiction from Wren's Watch"
+description: "Analysis and insight from Wren's Watch"
 ---
 
-Explore our collection of books, from young adult fiction to nonfiction examinations of technology and digital transformation.
+These books come from the same place as our software: decades inside the content and technology industries, watching AI reshape both in real time. They're analysis from a practitioner, not a pundit.
 
 ## Published Works
 
-- **[Latent Vector](/books/latent-vector/)** - Nonfiction / Business / Technology
+- **[Latent Vector](/books/latent-vector/)** - Nonfiction / Business / Technology / AI
 - **[About 5 Years](/books/about-5-years/)** - Nonfiction / Business / Digital Media
-- **[A Storytelling](/books/a-storytelling/)** - Young Adult Fiction

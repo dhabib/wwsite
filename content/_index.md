@@ -1,13 +1,12 @@
 ---
 title: "Wren's Watch"
-description: "Books and Software"
+description: "AI-powered tools and analysis for the content economy"
 ---
 
-Welcome to Wren's Watch, a hub for books and software exploring stories, technology, and the evolving digital landscape.
+AI-powered tools and analysis for the content economy.
 
 ## Explore
 
-- **[Books](/books/)** - Fiction and nonfiction exploring AI, storytelling, and digital transformation
-- **[Software](/software/)** - Tools and applications in development
-- **[Appearances](/appearances/)** - Articles, podcasts, and videos
+- **[Software](/software/)** - AI-powered tools for knowledge workers
+- **[Books](/books/)** - Analysis of AI-driven disruption and the forces reshaping digital media
 - **[About](/about/)** - Learn more about Wren's Watch

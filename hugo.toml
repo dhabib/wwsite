@@ -12,7 +12,7 @@ buildExpired = false
 
 [params]
   # Site description
-  description = "Books and software from Wren's Watch"
+  description = "AI-powered tools and analysis for the content economy"
   author = "Wren's Watch"
 
   # Logo/label in navbar
@@ -67,15 +67,15 @@ buildExpired = false
     responsiveImages = true
 
 [[menu.main]]
-  identifier = "books"
-  name = "Books"
-  url = "/books/"
-  weight = 1
-
-[[menu.main]]
   identifier = "software"
   name = "Software"
   url = "/software/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "books"
+  name = "Books"
+  url = "/books/"
   weight = 2
 
 [[menu.main]]

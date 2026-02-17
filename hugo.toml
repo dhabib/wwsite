@@ -37,12 +37,20 @@ buildExpired = false
     url = "mailto:contact@wrenswatch.com"
 
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
+    name = "twitter"
+    url = "https://twitter.com/wrenswatch"
 
   [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/"
+    name = "bluesky"
+    url = "https://bsky.app/profile/wrenswatch.bsky.social"
+
+  [[params.socialIcons]]
+    name = "threads"
+    url = "https://www.threads.net/@wrenswatch"
+
+  [[params.socialIcons]]
+    name = "mastodon"
+    url = "https://mastodon.social/@wortheverypenny"
 
   # Appearance - KeepIt style (clean, minimal)
   defaultTheme = "light"

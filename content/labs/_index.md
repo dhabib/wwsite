@@ -4,10 +4,10 @@ description: "Research and methodology from Wren's Watch"
 ---
 
 <div class="labs-logo-wrap">
-  <img class="labs-logo" src="/images/wrenswatchlogo-science.png" alt="Wren's Watch Labs" width="150" height="150">
+  <img class="labs-logo" src="/images/wrenswatchlogo-science.png" alt="Wren's Watch Labs" width="300" height="300">
 </div>
 
-Research documents, methodologies, and technical analysis from our work building AI-powered tools for the content economy.
+Smart documents for discerning smart people. Who are smart.
 
 ---
 

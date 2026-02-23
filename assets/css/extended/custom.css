@@ -312,9 +312,9 @@ img[src*="about-5-years"] {
 }
 
 .post-content img.labs-logo {
-    width: 150px !important;
-    max-width: 150px !important;
-    height: 150px !important;
+    width: 300px !important;
+    max-width: 300px !important;
+    height: 300px !important;
     margin: 0 auto;
     box-shadow: none;
     border-radius: 0;

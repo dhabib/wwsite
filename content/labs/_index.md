@@ -7,7 +7,7 @@ description: "Research and methodology from Wren's Watch"
   <img class="labs-logo" src="/images/wrenswatchlogo-science.png" alt="Wren's Watch Labs" width="300" height="300">
 </div>
 
-Smart documents for discerning smart people. Who are smart.
+Things we think you'll think are interesting.
 
 ---
 

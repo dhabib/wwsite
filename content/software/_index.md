@@ -3,6 +3,18 @@ title: "Software"
 description: "AI-powered tools from Wren's Watch"
 ---
 
+## Pilot — Wisdom Management System
+
+![Pilot Logo](/images/pilotlogobw.png)
+
+Traditional content management systems store documents and serve pages. Pilot does something different: it ingests everything an organization knows—documents, media, institutional expertise—and makes that knowledge available on demand, shaped by editorial principles you define.
+
+Not a CMS with AI bolted on. A fundamentally different architecture for how organizations capture, manage, and project what they know.
+
+**[Take a look →](https://www.pilotwme.com)**
+
+
+
 ## Cyrano
 
 ![Cyrano Logo](/images/cyranologo.png)
@@ -17,16 +29,3 @@ No API integrations to configure. No brand voice worksheets. Calibrate once, pos
 
 **[Try Cyrano →](https://cyrano.wrenswatch.com)**
 
----
-
-#### IN DEVELOPMENT
-
-## Pilot — Wisdom Management System
-
-![Pilot Logo](/images/pilotlogobw.png)
-
-Traditional content management systems store documents and serve pages. Pilot does something different: it ingests everything an organization knows—documents, media, institutional expertise—and makes that knowledge available on demand, shaped by editorial principles you define.
-
-Not a CMS with AI bolted on. A fundamentally different architecture for how organizations capture, manage, and project what they know.
-
-**[Read the product brief →](/Pilot%20—%20The%20Wisdom%20Engine.pdf)**

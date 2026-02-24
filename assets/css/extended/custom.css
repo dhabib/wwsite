@@ -355,3 +355,50 @@ img[src*="about-5-years"] {
     font-size: 0.9rem;
     color: var(--secondary);
 }
+
+/* Newsletter signup form */
+.embeddable-buttondown-form {
+    display: flex;
+    gap: 12px;
+    max-width: 480px;
+    margin: 2rem 0;
+}
+
+.embeddable-buttondown-form input[type="email"] {
+    flex: 1;
+    padding: 10px 16px;
+    border: 2px solid var(--primary);
+    border-radius: 4px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 1rem;
+    color: var(--primary);
+    background: var(--theme);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.embeddable-buttondown-form input[type="email"]::placeholder {
+    color: var(--secondary);
+}
+
+.embeddable-buttondown-form input[type="email"]:focus {
+    border-color: var(--link-hover);
+}
+
+.embeddable-buttondown-form input[type="submit"] {
+    padding: 10px 24px;
+    border: 2px solid var(--primary);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--primary);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.embeddable-buttondown-form input[type="submit"]:hover {
+    background: var(--primary);
+    color: var(--theme);
+}

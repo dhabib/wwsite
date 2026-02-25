@@ -75,6 +75,12 @@ buildExpired = false
     responsiveImages = true
 
 [[menu.main]]
+  identifier = "santayana"
+  name = "Santayana"
+  url = "https://santayana.org"
+  weight = -1
+
+[[menu.main]]
   identifier = "software"
   name = "Software"
   url = "/software/"

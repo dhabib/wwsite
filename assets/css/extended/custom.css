@@ -80,6 +80,11 @@ body {
     letter-spacing: 0;
 }
 
+/* Santayana link color */
+#menu li a[href*="santayana.org"] {
+    color: #4a8bc9 !important;
+}
+
 /* Home info styling - more centered and clean */
 .home-info .entry-content {
     text-align: center;
